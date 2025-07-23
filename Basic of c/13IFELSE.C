@@ -1,4 +1,5 @@
-//WAP to cheack which number is greater//
+// WAP to cheack which number is greater
+
 #include<stdio.h>
 int main()
     {
