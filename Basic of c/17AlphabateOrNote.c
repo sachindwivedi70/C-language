@@ -11,4 +11,8 @@ int main()
     }
     
     else
-    
+    {
+        printf("you have not enter a charcter=%c\n",ch);
+    }
+    return 0;
+    }
