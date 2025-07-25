@@ -13,4 +13,9 @@ int main(){
     {
         printf("your total percentage is %f and you are fail",total);
     
-
+}
+    else{
+     printf("your total percentage is %f and you are pass",total);
+    }
+    return 0;
+}
